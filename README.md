@@ -30,9 +30,9 @@
 
 <img width="565" height="298" alt="image" src="https://github.com/user-attachments/assets/2fa49f97-98fd-447e-b82a-f38ac8944009" />
 
-<img width="1361" height="645" alt="image" src="https://github.com/user-attachments/assets/20dab64e-7f52-49a0-b07d-3597832a4afd" />
+<img width="1355" height="687" alt="image" src="https://github.com/user-attachments/assets/9a144dad-56da-4855-aa03-7156bf44e78d" />
 
-<img width="1342" height="642" alt="image" src="https://github.com/user-attachments/assets/9b228155-2448-4318-aaa8-dcfce20aef1f" />
+<img width="1361" height="677" alt="image" src="https://github.com/user-attachments/assets/b8d00d78-99f5-4dc3-8c76-30730ae9c9be" />
 
 
 For detailed steps, refer to our <a href="https://www.cometchat.com/docs/ui-kit/react/builder-integration" target="_blank">UI Kit Builder documentation</a>
